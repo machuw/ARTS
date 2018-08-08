@@ -1,5 +1,5 @@
 # [Scalability for Dummies] [Le Clound Blog]
-url:http://www.lecloud.net/tagged/scalability
+url: http://www.lecloud.net/tagged/scalability
 
 ## Part 1: Clones/Instance
 That leads to the first golden rule for scalability: **every server contains exactly the same codebase and does not store any user-related data, like sessions or profile picture, on local disc or memory.**
