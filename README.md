@@ -1,9 +1,9 @@
 # ARTS
 
-**A** is Algorithm, do at least one leetcode algorithm a week
+**Algorithm**：至少做一个 LeetCode 的算法题。主要为了编程训练和学习。
 
-**R** is Review, read and comment at least one English technical article a week
+**Review**：阅读并点评至少一篇英文技术文章。主要为了学习英文，如果你英文不行，很难成为技术高手。
 
-**T** is Tip, learn at least one technical skill a week
+**Tip**：学习至少一个技术技巧。主要是为了总结和归纳你日常工作中所遇到的知识点。
 
-**S** is Share, share a technical article with my ideas and thoughts
+**Share**：分享一篇有观点和思考的技术文章。主要为了输出你的影响力和价值观。
